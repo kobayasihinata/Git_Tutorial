@@ -4,5 +4,6 @@ int main(void) {
 	printf("Hello Git World!");
 
 	printf("‚ ‚¢‚¤‚¦‚¨");
+	printf("‚ ‚¢‚¤‚¦‚¨");
 	return 0;
 }
