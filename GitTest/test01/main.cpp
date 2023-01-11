@@ -3,7 +3,7 @@
 int main(void) {
 	printf("Hello Git World!");
 
-	printf("‚ ‚¢‚¤‚¦‚¨");
-	printf("‚ ‚¢‚¤‚¦‚¨");
+	for (int i = 0; i < 5; i++)printf("‚ ‚¢‚¤‚¦‚¨");
+	
 	return 0;
 }
